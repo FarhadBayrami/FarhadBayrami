@@ -14,10 +14,9 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Machine Learning Engineer and recent MSc graduate in Artificial Intelligence from the **University of Bologna**. My work spans deep learning for medical imaging, NLP, time-series forecasting, and AI fairness — with a strong focus on building models that are both accurate and responsible.
+I'm a Machine Learning Engineer and recent MSc graduate in Artificial Intelligence from the **University of Bologna**. My work spans deep learning for computer vision, medical imaging, NLP, time-series forecasting — with a strong focus on building models that are both accurate and responsible.
 
 - 🔬 Research interests:  ML, Computer Vision, Medical Imsge Analysis, NLP
-- 🎓 MSc in Artificial Intelligence — University of Bologna
 - 📍 Based in Bologna, Italy
 - 🌱 Currently exploring: LLMs, Vision Transformers, Hybrid Physics-ML models
 
