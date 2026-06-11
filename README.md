@@ -50,13 +50,12 @@ I'm a Machine Learning Engineer and recent MSc graduate in Artificial Intelligen
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🦴 Bone Health Assessment](https://github.com/FarhadBayrami/Enhancing_Bone_Health_Assessment_through_Deep_Learning) | ResNet + Attention for X-ray abnormality detection · AUC 84.6% | PyTorch, ResNet |
-| [🌊 Residual LSTM Forecasting](https://github.com/FarhadBayrami/Residual_LSTM) | Hybrid physics-ML model for river discharge · +25.7% over TOPKAPI | PyTorch, LSTM |
-| [🧠 EDiReF NLP](https://github.com/FarhadBayrami/EDiReF-BERT-Multitask-NLP) | BERT multi-task emotion classification + trigger detection | BERT, HuggingFace |
-| [🛰️ Image Inpainting](https://github.com/FarhadBayrami/image-inpainting-eurosat-DL-Course) | Satellite image reconstruction on EuroSAT RGB | TensorFlow, Keras |
+| [🫁 CT Atlas Pulmonary Nodules](https://github.com/FarhadBayrami/ct-atlas-pulmonary-nodules) | Master's thesis — CT atlas for pulmonary nodule detection in lung cancer screening | PyTorch, Jupyter |
 | [🔍 Person Search](https://github.com/FarhadBayrami/faster-rcnn-oim-person-search) | Faster R-CNN + OIM Re-ID for pedestrian search on PRW dataset | PyTorch, torchvision |
-| [🕸️ Reddit SNA](https://github.com/FarhadBayrami/social-network-analysis-reddit) | Social network analysis of 55K subreddits · 23 communities | NetworkX, Gephi |
-
+| [🧠 EDiReF NLP](https://github.com/FarhadBayrami/EDiReF-BERT-Multitask-NLP) | BERT multi-task emotion classification + trigger detection | BERT, HuggingFace |
+| [🦴 Bone Health Assessment](https://github.com/FarhadBayrami/Enhancing_Bone_Health_Assessment_through_Deep_Learning) | ResNet + Attention for X-ray abnormality detection · AUC 84.6% | PyTorch, ResNet |
+| [📈 MLE & MAP Regression](https://github.com/FarhadBayrami/mle-map-polynomial-regression) | MLE and MAP polynomial regression under Gaussian and Poisson noise | Python, NumPy |
+| [🌊 PatchTST Forecasting](https://github.com/FarhadBayrami/PatchTST-Transformer-for-Time-Series.) | PatchTST transformer model for river discharge forecasting | PyTorch, Transformers |
 ---
 
 <div align="center">
