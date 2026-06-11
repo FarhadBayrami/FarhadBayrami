@@ -16,11 +16,20 @@
 
 I'm a Machine Learning Engineer and recent MSc graduate in Artificial Intelligence from the **University of Bologna**. My work spans deep learning for computer vision, medical imaging, NLP, time-series forecasting — with a strong focus on building models that are both accurate and responsible.
 
-- 🔬 Research interests:  ML, Computer Vision, Medical Imsge Analysis, NLP
+- 🔬 Research interests: ML, Computer Vision, Medical Imsge Analysis, NLP
 - 📍 Based in Bologna, Italy
 - 💼 Currently: ML Engineer Intern at PROGEA S.r.l., Bologna — CNN pipelines for flood & hydrological prediction
 - 🌱 Currently exploring: LLMs, Vision Transformers, Hybrid Physics-ML models
 ---
+
+
+## 📄 Publications
+
+| Type | Title | Venue |
+|------|-------|-------|
+| **Journal** | DenUnet: Enhancing Dental Image Segmentation through Edge and Body Fusion | Multimedia Tools and Applications, Springer, 2025 · [DOI](https://doi.org/10.1007/s11042-024-19513-0) |
+| **Preprint** | Enhancing Lung Cancer Detection: Segmentation and Classification of CT Images Using U-Net | Research Square, 2024 · [DOI](https://doi.org/10.21203/rs.3.rs-5232211/v1) |
+
 
 ## 🛠️ Tech Stack
 
