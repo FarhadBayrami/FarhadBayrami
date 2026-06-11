@@ -54,7 +54,7 @@ I'm a Machine Learning Engineer and recent MSc graduate in Artificial Intelligen
 | [🌊 Residual LSTM Forecasting](https://github.com/FarhadBayrami/Residual_LSTM) | Hybrid physics-ML model for river discharge · +25.7% over TOPKAPI | PyTorch, LSTM |
 | [🧠 EDiReF NLP](https://github.com/FarhadBayrami/EDiReF-BERT-Multitask-NLP) | BERT multi-task emotion classification + trigger detection | BERT, HuggingFace |
 | [🛰️ Image Inpainting](https://github.com/FarhadBayrami/image-inpainting-eurosat-DL-Course) | Satellite image reconstruction on EuroSAT RGB | TensorFlow, Keras |
-| [⚖️ Fairness Auditing](https://github.com/FarhadBayrami/Fairness-Auditing-Tool-for-Income-Prediction_) | Bias detection across 8 ML classifiers · Adult dataset | scikit-learn |
+| [🔍 Person Search](https://github.com/FarhadBayrami/faster-rcnn-oim-person-search) | Faster R-CNN + OIM Re-ID for pedestrian search on PRW dataset | PyTorch, torchvision |
 | [🕸️ Reddit SNA](https://github.com/FarhadBayrami/social-network-analysis-reddit) | Social network analysis of 55K subreddits · 23 communities | NetworkX, Gephi |
 
 ---
