@@ -18,8 +18,8 @@ I'm a Machine Learning Engineer and recent MSc graduate in Artificial Intelligen
 
 - 🔬 Research interests:  ML, Computer Vision, Medical Imsge Analysis, NLP
 - 📍 Based in Bologna, Italy
+- 💼 Currently: ML Engineer Intern at PROGEA S.r.l., Bologna — CNN pipelines for flood & hydrological prediction
 - 🌱 Currently exploring: LLMs, Vision Transformers, Hybrid Physics-ML models
-
 ---
 
 ## 🛠️ Tech Stack
@@ -27,22 +27,43 @@ I'm a Machine Learning Engineer and recent MSc graduate in Artificial Intelligen
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Deep Learning & ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![MONAI](https://img.shields.io/badge/MONAI-Medical%20AI-blue?style=flat-square)
+![Optuna](https://img.shields.io/badge/Optuna-Hyperparameter%20Tuning-purple?style=flat-square)
 
-**Tools & Platforms**
+**Medical Imaging**
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![SimpleITK](https://img.shields.io/badge/SimpleITK-Medical%20Imaging-green?style=flat-square)
+![NiBabel](https://img.shields.io/badge/NiBabel-Neuroimaging-blue?style=flat-square)
+![ANTs](https://img.shields.io/badge/ANTs-Image%20Registration-orange?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Data & Visualisation**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**DevOps & Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-
 ---
 
 ## 🚀 Featured Projects
