@@ -18,7 +18,7 @@ I'm a Machine Learning Engineer and recent MSc graduate in Artificial Intelligen
 
 - 🔬 Research interests: ML, Computer Vision, Medical Imsge Analysis, NLP
 - 📍 Based in Bologna, Italy
-- 💼 Currently: ML Engineer Intern at PROGEA S.r.l., Bologna — CNN pipelines for flood & hydrological prediction
+- 💼 Currently: ML Engineer Intern at PROGEA S.r.l., Bologna — CNN pipelines for time-series in flood & hydrological prediction
 - 🌱 Currently exploring: LLMs, Vision Transformers, Hybrid Physics-ML models
 ---
 
