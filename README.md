@@ -31,6 +31,7 @@ I'm a Machine Learning Engineer and recent MSc graduate in Artificial Intelligen
 | **Journal** | A Multi-Scale Transformer U-Net with SECA Attention for Robust Breast Tumor Segmentation Across Diverse Imaging Modalities | Multimedia Tools and Applications, Springer, 2026 · [DOI](https://doi.org/10.1007/s11042-026-21810-9) |
 | **Journal** | DenUnet: Enhancing Dental Image Segmentation through Edge and Body Fusion | Multimedia Tools and Applications, Springer, 2025 · [DOI](https://doi.org/10.1007/s11042-024-19513-0) |
 | **Preprint** | Enhancing Lung Cancer Detection: Segmentation and Classification of CT Images Using U-Net | Research Square, 2024 · [DOI](https://doi.org/10.21203/rs.3.rs-5232211/v1) |
+| **Book** | An Introduction to Dark Energy (in Farsi) | Rah Pooyan Danesh Publication, 2019 · ISBN 978-622-992433-4 |
 
 
 ## 💼 Experience
