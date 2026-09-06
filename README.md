@@ -23,13 +23,23 @@ I'm a Machine Learning Engineer and recent MSc graduate in Artificial Intelligen
 ---
 
 
+
 ## 📄 Publications
 
 | Type | Title | Venue |
 |------|-------|-------|
+| **Journal** | A Multi-Scale Transformer U-Net with SECA Attention for Robust Breast Tumor Segmentation Across Diverse Imaging Modalities | Multimedia Tools and Applications, Springer, 2026 · [DOI](https://doi.org/10.1007/s11042-026-21810-9) |
 | **Journal** | DenUnet: Enhancing Dental Image Segmentation through Edge and Body Fusion | Multimedia Tools and Applications, Springer, 2025 · [DOI](https://doi.org/10.1007/s11042-024-19513-0) |
 | **Preprint** | Enhancing Lung Cancer Detection: Segmentation and Classification of CT Images Using U-Net | Research Square, 2024 · [DOI](https://doi.org/10.21203/rs.3.rs-5232211/v1) |
 
+
+## 💼 Experience
+
+| Role | Company | Period | Focus |
+|------|---------|--------|-------|
+| **Deep Learning Engineer Intern** | PROGEA S.r.l. — Bologna, Italy | Apr 2026 – Present | CNNs (PyTorch/TensorFlow) for environmental monitoring; real-time flood forecasting & hydrological prediction; end-to-end time-series data pipelines and production model evaluation |
+| **IT Support Engineer** | Tehran Institute of Technology — Tehran, Iran | 2019 – 2022 | Network & system administration across a multi-site environment; automated auditing and admin tasks with Python |
+| **Certified High School Physics Teacher** | Ministry of Education — Karaj, Iran | 2012 – 2019 | Seven years of physics teaching (Teacher Training University certificate); volunteer teaching in underserved schools |
 
 ## 🛠️ Tech Stack
 
