@@ -62,7 +62,7 @@ I'm a Machine Learning Engineer and recent MSc graduate in Artificial Intelligen
 ![MONAI](https://img.shields.io/badge/MONAI-Medical%20AI-blue?style=flat-square)
 ![Optuna](https://img.shields.io/badge/Optuna-Hyperparameter%20Tuning-purple?style=flat-square)
 
-**Medical Imaging**
+**Medical Imaging & Computer Vision**
 
 ![SimpleITK](https://img.shields.io/badge/SimpleITK-Medical%20Imaging-green?style=flat-square)
 ![NiBabel](https://img.shields.io/badge/NiBabel-Neuroimaging-blue?style=flat-square)
