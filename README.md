@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Farhad Bayrami 👋
+# Hi, I'm FARHAD 👋
 
 ### Deep Learning Engineer | MSc in Artificial Intelligence — University of Bologna
 
