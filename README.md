@@ -18,7 +18,7 @@ I'm a Machine Learning Engineer and recent MSc graduate in Artificial Intelligen
 
 - 🔬 Research interests: Deep Learning ,Physics-Informe ML, Medical Imsge Analysis
 - 💼 Currently: ML Engineer Intern at PROGEA S.r.l., Bologna — CNN pipelines for time-series in flood & hydrological prediction
-- 🌱 Currently exploring: Hybrid Physics-ML models, Transformers, Times Series Forcasting
+- 🌱 Currently exploring: Hybrid Physics-ML models, Transformers, Physics-Informed Deep Learning
 - 📍 Based in Bologna, Italy
 ---
 
