@@ -98,6 +98,7 @@ I'm a Machine Learning Engineer and recent MSc graduate in Artificial Intelligen
 | [🧠 EDiReF NLP](https://github.com/FarhadBayrami/EDiReF-BERT-Multitask-NLP) | BERT multi-task emotion classification + trigger detection | BERT, HuggingFace |
 | [🦴 Bone Health Assessment](https://github.com/FarhadBayrami/Enhancing_Bone_Health_Assessment_through_Deep_Learning) | ResNet + Attention for X-ray abnormality detection · AUC 84.6% | PyTorch, ResNet |
 | [📈 MLE & MAP Regression](https://github.com/FarhadBayrami/mle-map-polynomial-regression) | MLE and MAP polynomial regression under Gaussian and Poisson noise | Python, NumPy |
+| [🌌 Cosmology Growth Calculations](https://github.com/FarhadBayrami/cosmology-growth-calculations-maple) | MSc Physics thesis: Maple model of density-perturbation growth, two-parameter sweeps, sensitivity analysis and 3-D response surfaces |
 | [🌊 PatchTST Forecasting](https://github.com/FarhadBayrami/PatchTST-Transformer-for-Time-Series) | PatchTST transformer model for river discharge forecasting | PyTorch, Transformers |
 
 ---
