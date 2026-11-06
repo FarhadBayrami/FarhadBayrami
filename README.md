@@ -4,8 +4,9 @@
 
 ### Deep Learning Engineer | MSc in Artificial Intelligence — University of Bologna
 
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=zFwyidYAAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-5786-3363)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhad-bayrami-9410a8279/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FarhadBayrami)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhad.bayrami@studio.unibo.it)
 
 </div>
@@ -16,10 +17,11 @@
 
 I'm a Machine Learning Engineer and recent MSc graduate in Artificial Intelligence from the **University of Bologna**. My work spans deep learning for computer vision, medical imaging, NLP, time-series forecasting — with a strong focus on building models that are both accurate and responsible.
 
-- 🔬 Research interests: Deep Learning ,Physics-Informe ML, Medical Imsge Analysis
-- 💼 Currently: ML Engineer Intern at PROGEA S.r.l., Bologna — CNN pipelines for time-series in flood & hydrological prediction
+- 🔬 Research interests: Deep Learning, Physics-Informed ML, Medical Image Analysis
+- 💼 Currently: Deep Learning Engineer Intern at PROGEA S.r.l., Bologna — CNN pipelines for time-series in flood & hydrological prediction
 - 🌱 Currently exploring: Hybrid Physics-ML models, Transformers, Physics-Informed Deep Learning
 - 📍 Based in Bologna, Italy
+
 ---
 
 
@@ -84,18 +86,20 @@ I'm a Machine Learning Engineer and recent MSc graduate in Artificial Intelligen
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+
 ---
 
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🫁 CT Atlas Pulmonary Nodules](https://github.com/FarhadBayrami/ct-atlas-pulmonary-nodules) | Master's thesis — CT atlas for pulmonary nodule detection in lung cancer screening | PyTorch, Jupyter |
+| 🫁 CT Atlas Pulmonary Nodules (code private) | Master's thesis — CT atlas for pulmonary nodule detection in lung cancer screening | PyTorch, Jupyter |
 | [🔍 Person Search](https://github.com/FarhadBayrami/faster-rcnn-oim-person-search) | Faster R-CNN + OIM Re-ID for pedestrian search on PRW dataset | PyTorch, torchvision |
 | [🧠 EDiReF NLP](https://github.com/FarhadBayrami/EDiReF-BERT-Multitask-NLP) | BERT multi-task emotion classification + trigger detection | BERT, HuggingFace |
 | [🦴 Bone Health Assessment](https://github.com/FarhadBayrami/Enhancing_Bone_Health_Assessment_through_Deep_Learning) | ResNet + Attention for X-ray abnormality detection · AUC 84.6% | PyTorch, ResNet |
 | [📈 MLE & MAP Regression](https://github.com/FarhadBayrami/mle-map-polynomial-regression) | MLE and MAP polynomial regression under Gaussian and Poisson noise | Python, NumPy |
-| [🌊 PatchTST Forecasting](https://github.com/FarhadBayrami/PatchTST-Transformer-for-Time-Series.) | PatchTST transformer model for river discharge forecasting | PyTorch, Transformers |
+| [🌊 PatchTST Forecasting](https://github.com/FarhadBayrami/PatchTST-Transformer-for-Time-Series) | PatchTST transformer model for river discharge forecasting | PyTorch, Transformers |
+
 ---
 
 <div align="center">
