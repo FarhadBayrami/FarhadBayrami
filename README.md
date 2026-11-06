@@ -18,7 +18,7 @@
 I'm a Machine Learning Engineer and recent MSc graduate in Artificial Intelligence from the **University of Bologna**. My work spans deep learning for computer vision, medical imaging, NLP, time-series forecasting — with a strong focus on building models that are both accurate and responsible.
 
 - 🔬 Research interests: Deep Learning, Physics-Informed ML, Medical Image Analysis
-- 💼 Currently: Deep Learning Engineer Intern at PROGEA S.r.l., Bologna — CNN pipelines for time-series in flood & hydrological prediction
+- 💼 Currently: Deep/ Machine Learning Engineer at PROGEA S.r.l., Bologna — CNN pipelines for time-series in flood & hydrological prediction
 - 🌱 Currently exploring: Hybrid Physics-ML models, Transformers, Physics-Informed Deep Learning
 - 📍 Based in Bologna, Italy
 
