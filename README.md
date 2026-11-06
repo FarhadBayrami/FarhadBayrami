@@ -93,7 +93,7 @@ I'm a Machine Learning Engineer and recent MSc graduate in Artificial Intelligen
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🫁 CT Atlas Pulmonary Nodules (code private) | Master's thesis — CT atlas for pulmonary nodule detection in lung cancer screening | PyTorch, Jupyter |
+| 🫁 CT Atlas Pulmonary Nodules ((https://github.com/FarhadBayrami/ct-atlas-pulmonary-nodules)) | Master's thesis — CT atlas for pulmonary nodule detection in lung cancer screening | PyTorch, Jupyter |
 | [🔍 Person Search](https://github.com/FarhadBayrami/faster-rcnn-oim-person-search) | Faster R-CNN + OIM Re-ID for pedestrian search on PRW dataset | PyTorch, torchvision |
 | [🧠 EDiReF NLP](https://github.com/FarhadBayrami/EDiReF-BERT-Multitask-NLP) | BERT multi-task emotion classification + trigger detection | BERT, HuggingFace |
 | [🦴 Bone Health Assessment](https://github.com/FarhadBayrami/Enhancing_Bone_Health_Assessment_through_Deep_Learning) | ResNet + Attention for X-ray abnormality detection · AUC 84.6% | PyTorch, ResNet |
