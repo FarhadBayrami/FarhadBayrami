@@ -103,12 +103,5 @@ I'm a Machine Learning Engineer and recent MSc graduate in Artificial Intelligen
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarhadBayrami&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhadBayrami&layout=compact&theme=default&hide_border=true" height="150"/>
-</div>
-
----
-
-<div align="center">
   <sub>Always learning · Always building</sub>
 </div>
