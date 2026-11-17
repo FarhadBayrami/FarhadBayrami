@@ -39,7 +39,7 @@ I'm a Machine Learning Engineer and recent MSc graduate in Artificial Intelligen
 ## 💼 Experience
 
 | Role | Company | Period | Focus |
-|------|---------|--------|-------|
+|------|---------|-----------|-------|
 | **Deep Learning Engineer** | PROGEA S.r.l. — Bologna, Italy | Apr 2026 – Present | CNNs (PyTorch/TensorFlow) for environmental monitoring; real-time flood forecasting & hydrological prediction; end-to-end time-series data pipelines and production model evaluation |
 | **IT Support Engineer** | Tehran Institute of Technology — Tehran, Iran | 2019 – 2022 | Network & system administration across a multi-site environment; automated auditing and admin tasks with Python |
 | **Certified High School Physics Teacher** | Ministry of Education — Karaj, Iran | 2012 – 2019 | Seven years of physics teaching (Teacher Training University certificate); volunteer teaching in underserved schools |
